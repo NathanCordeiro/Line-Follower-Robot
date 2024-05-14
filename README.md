@@ -6,7 +6,7 @@
 
 
 All the rights are reserved strictly by Team Cyclops for the members of the team 
-for enquiries and implementation only
+for enquiries and implementation only. Any further implementations to LFR and variation to code will be available on this repository in dedicated branches.
 
 
 
