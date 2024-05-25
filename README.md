@@ -27,12 +27,12 @@ This project demonstrates a line follower robot powered by an Arduino Uno. The r
 The line follower robot is designed to follow a black line on a white surface. It uses five IR sensors to detect the line's position and adjusts its movements by controlling the left and right motors accordingly.
 
 ## Components
-- Arduino Uno
+- Arduino Uno R3
 - 2 DC Motors with motor driver
-- 5 IR Sensors
+- 5 IR Sensors (individual or array chanel works)
 - Motor driver (L298N or similar)
 - Chassis, wheels, and other mechanical components
-- Jumper wires and breadboard
+- Jumper wires (breadboard is optional)
 
 ## Circuit Diagram
 [Insert an image or a link to the circuit diagram here]
