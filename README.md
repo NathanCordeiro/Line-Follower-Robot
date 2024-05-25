@@ -22,6 +22,7 @@ This project demonstrates a line follower robot powered by an Arduino Uno. The r
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contacts](#contacts)
 
 ## Introduction
 The line follower robot is designed to follow a black line on a white surface. It uses five IR sensors to detect the line's position and adjusts its movements by controlling the left and right motors accordingly.
@@ -79,4 +80,7 @@ We welcome contributions to improve the project. Here’s how you can contribute
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
+## Contacts
+- Nathan Cordeiro ```https://github.com/NathanCordeiro```
+- Sanika Naik    ```https://github.com/SanikaKNaik```
+- Vaidehi Kolhatkar   ```https://github.com/VaidehiKolhatkar```
