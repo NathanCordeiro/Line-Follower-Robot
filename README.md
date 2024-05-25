@@ -81,6 +81,20 @@ We welcome contributions to improve the project. Here’s how you can contribute
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contacts
-- Nathan Cordeiro ```https://github.com/NathanCordeiro```
-- Sanika Naik    ```https://github.com/SanikaKNaik```
-- Vaidehi Kolhatkar   ```https://github.com/VaidehiKolhatkar```
+   Nathan Cordeiro 
+   ```sh
+   https://github.com/NathanCordeiro
+   ```
+    
+   Sanika Naik
+   ```sh
+   https://github.com/SanikaKNaik
+   ```
+
+   Vaidehi Kolhatkar
+   ```sh
+   https://github.com/VaidehiKolhatkar
+   ```
+
+
+
