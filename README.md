@@ -56,7 +56,7 @@ The code is designed to:
 - `check()`: Determines the robot's movement based on the sensor values.
 - `rightS()`, `leftS()`, `go()`, `stopme()`: Control the motors to turn right, turn left, move forward, and stop respectively.
 
-## Inbuilt Functions
+### Inbuilt Functions
 -  `analogWrite()`: Allows you to write a an analog value (a pulse-width-modulation wave) to a specific pin.
      ```INO
       Syntax:
@@ -65,7 +65,14 @@ The code is designed to:
       Pin - Pin to write to allowed to be an int only
       value -  The duty cycle, ranging from 0 to 255 
      ```
--  `digitalWrite()`:
+-  `digitalWrite()`: Allows you to control the state of a digital pin, can be set to either HIGH(5v)  or LOW(0v).
+     ```INO
+      Syntax:
+      digitalWrite(pin, value)
+      Parameters:
+      Pin - The arduino pin number
+      value - Either HIGH or LOW
+     ```
 -  `bitWrite()`:
 
 ## Usage
