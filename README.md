@@ -57,7 +57,14 @@ The code is designed to:
 - `rightS()`, `leftS()`, `go()`, `stopme()`: Control the motors to turn right, turn left, move forward, and stop respectively.
 
 ## Inbuilt Functions
--  `analogWrite()`:
+-  `analogWrite()`: Allows you to write a an analog value (a pulse-width-modulation wave) to a specific pin.
+     ```INO
+      Syntax:
+      analogWrite(pin, value)
+      Parameters:
+      Pin - Pin to write to allowed to be an int only
+      value -  The duty cycle, ranging from 0 to 255 
+     ```
 -  `digitalWrite()`:
 -  `bitWrite()`:
 
