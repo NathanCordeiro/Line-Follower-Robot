@@ -56,6 +56,11 @@ The code is designed to:
 - `check()`: Determines the robot's movement based on the sensor values.
 - `rightS()`, `leftS()`, `go()`, `stopme()`: Control the motors to turn right, turn left, move forward, and stop respectively.
 
+## Inbuilt Functions
+-  
+-
+-
+
 ## Usage
 1. **Assemble the Hardware**:
    - Connect the IR sensors to the analog pins A0 to A4 on the Arduino.
