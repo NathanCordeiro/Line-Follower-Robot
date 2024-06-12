@@ -73,7 +73,15 @@ The code is designed to:
       Pin - The arduino pin number
       value - Either HIGH or LOW
      ```
--  `bitWrite()`:
+-  `bitWrite()`: Allows you to modify a specific bit of a numeric variable.
+     ```INO
+      Syntax:
+      bitWrite(x, n, b)
+      Parameters:
+      x - The numeric variable to which you want to write
+      n - The bit position
+      b - The value to write to the specified bit either 0 or 1
+     ```
 
 ## Usage
 1. **Assemble the Hardware**:
