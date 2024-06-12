@@ -57,9 +57,9 @@ The code is designed to:
 - `rightS()`, `leftS()`, `go()`, `stopme()`: Control the motors to turn right, turn left, move forward, and stop respectively.
 
 ## Inbuilt Functions
--  
--
--
+-  `analogWrite()`:
+-  `digitalWrite()`:
+-  `bitWrite()`:
 
 ## Usage
 1. **Assemble the Hardware**:
