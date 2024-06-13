@@ -10,6 +10,7 @@
 
 ---
 
+
 # Line Follower Robot using Arduino Uno
 
 This project demonstrates a line follower robot powered by an Arduino Uno. The robot uses infrared (IR) sensors to detect the line and adjust its path accordingly by controlling the motors.
