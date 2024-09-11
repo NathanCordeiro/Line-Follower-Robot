@@ -31,7 +31,7 @@ The line follower robot is designed to follow a black line on a white surface. I
 - Jumper wires (breadboard is optional)
 
 ## Circuit Diagram
-![Circuit Diagram]
+![Circuit Diagram](./LFR%20circuit%20diagram.png)
 
 ## Code Explanation
 The code is designed to:
