@@ -1,17 +1,11 @@
 ---
 
-<h1 align="center">Line Follower Robot</h1>
-
-> [!NOTE]
-> ### This is the code being used on `TRAILBLAZER` v3.1.0 `~By Team Cyclops`
-> 
-> All the rights are reserved strictly by Team Cyclops for the members of the team 
-> for enquiries and implementation only. Any further implementations to LFR and variation to code will be available on this repository in dedicated branches.
+<h1 align="center">Line Follower Robot 🏎️</h1>
 
 ---
 
 
-# Line Follower Robot using Arduino Uno
+# Line Follower Robot using Arduino Uno 
 
 This project demonstrates a line follower robot powered by an Arduino Uno. The robot uses infrared (IR) sensors to detect the line and adjust its path accordingly by controlling the motors.
 
